@@ -1,9 +1,9 @@
 🍽️ RestoResa
-<<<<<<< HEAD
+
 RestoResa est une application web (qui n'existe pas) de réservation de restaurants. Elle permet aux utilisateurs de découvrir, réserver et évaluer des établissements en quelques clics. 
-=======
+
 RestoResa est une application web de réservation de restaurants. Elle permet aux utilisateurs de découvrir, réserver et évaluer des établissements en quelques clics. 
->>>>>>> c67459ce1ad1d8659b27d3c2673f9de3a788e87a
+
 Le projet permet d’expérimenter les workflows de contribution, les pull requests, la gestion d’issues et le versionnement collaboratif, comme dans un environnement professionnel réel.
 
 
